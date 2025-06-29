@@ -17,6 +17,8 @@ As part of my data journey, I’ve worked on 20+ data analytics projects across 
           
           🛒 E-commerce & Sales
 
+<img src="https://github.com/Shaif-Khan/Data-Analyst-Portfolio-Projects/blob/main/Bank%20Loan%20Overview%20Dashboard.png?raw=true">
+
 🧰 Tools & Technologies Used:
           📊 Power BI – Interactive dashboards & KPI reporting
           
