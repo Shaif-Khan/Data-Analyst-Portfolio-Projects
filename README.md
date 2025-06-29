@@ -7,6 +7,7 @@ I'm Shaif Khan, a passionate data analyst and backend developer with a Master's 
 As part of my data journey, I’ve worked on 20+ data analytics projects across multiple domains, combining storytelling, business insights, and visual exploration using industry-relevant tools and platforms.
 
 🌍 Domains Covered:
+
           💰 Finance & Banking
           
           📡 Telecommunications & Media
@@ -16,8 +17,22 @@ As part of my data journey, I’ve worked on 20+ data analytics projects across 
           ☁️ IT Solutions & Cloud Computing
           
           🛒 E-commerce & Sales
+<hr>
 
 <img src="https://github.com/Shaif-Khan/Data-Analyst-Portfolio-Projects/blob/main/Bank%20Loan%20Overview%20Dashboard.png?raw=true">
+<hr>
+<img src="https://github.com/Shaif-Khan/Data-Analyst-Portfolio-Projects/blob/main/Bank%20Loan%20Project%20Dashboard.png?raw=true">
+<hr>
+<img src="https://github.com/Shaif-Khan/Data-Analyst-Portfolio-Projects/blob/main/Cloud%20Data%20Dashboard.png?raw=true">
+<hr>
+<img src="https://github.com/Shaif-Khan/Data-Analyst-Portfolio-Projects/blob/main/E-Commerce%20Sales%20Dashboard.png?raw=true">
+<hr>
+<img src="https://github.com/Shaif-Khan/Data-Analyst-Portfolio-Projects/blob/main/Hospital_Domain_Dashboard.png?raw=true">
+<hr>
+<img src="https://github.com/Shaif-Khan/Data-Analyst-Portfolio-Projects/blob/main/Telecommunication%20%20Dashboard%201.png?raw=true">
+<hr>
+<img src="https://github.com/Shaif-Khan/Data-Analyst-Portfolio-Projects/blob/main/Telecommunication%20%20Dashboard%202.png?raw=true">
+<hr>
 
 🧰 Tools & Technologies Used:
           📊 Power BI – Interactive dashboards & KPI reporting
